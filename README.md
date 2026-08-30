@@ -1,4 +1,4 @@
-# Cessna172-Wing-Structural-Analysis
+# Cessna 172 Wing Structural Analysis
 
 
 
