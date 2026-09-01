@@ -62,5 +62,5 @@ This project is a finite element analysis of a Cessna 172 full-wing under limit 
 
 
 
-\-The safety factor is so high because the body was solid. A real Cessna 172 wing is a hollow structure of thin aluminum skin over ribs and spars. The solid model has orders of magnitude more material cross-section than the actual wing, so stresses are artificially low. This analysis is valid for demonstrating load path behavior and deformation trends, but does not reflect real structural efficiency of the wing.
+\-The safety factor is so high because the body used for FEA was solid. A real Cessna 172 wing is a hollow structure of thin aluminum skin over ribs and spars. The solid model has orders of magnitude more material cross-section than the actual wing, so stresses are artificially low. This analysis is valid for demonstrating load path behavior and deformation trends, but does not reflect real structural efficiency of the wing.
 
